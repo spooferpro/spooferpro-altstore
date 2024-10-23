@@ -50,6 +50,7 @@
         "entitlements": [
           "com.apple.security.application-groups",
           "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit.background-delivery",
           "com.apple.developer.healthkit",
           "aps-environment",
           "com.apple.developer.healthkit.access",
