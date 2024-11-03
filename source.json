@@ -36,15 +36,6 @@
         "https://spooferpro.com/img/NBXQ5563.PNG"
       ],
       "versions": [
-                {
-          "marketingVersion": "0.337.0-0.418",
-          "version": "0.337.0",
-          "date": "2024-11-02T18:45:00-05:00",
-          "size": 155000000,
-          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.337.0-0.418.RLS.ipa",
-          "localizedDescription": "- Fixed Avatar in Low Power Mode.\n- Fixed False Rocket Limit Warning.",
-          "minOSVersion": "15.0"
-        },
         {
           "marketingVersion": "0.335.1-0.416",
           "version": "0.335.1",
