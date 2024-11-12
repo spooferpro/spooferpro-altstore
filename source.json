@@ -37,6 +37,15 @@
       ],
       "versions": [
         {
+          "marketingVersion": "0.339.0-0.421",
+          "version": "0.339.0",
+          "date": "2024-11-12T18:45:00-05:00",
+          "size": 155000000,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.339.0-0.421.RLS.ipa",
+          "localizedDescription": "- Fixed GMax encounters.",
+          "minOSVersion": "15.0"
+        },
+        {
           "marketingVersion": "0.337.0-0.419",
           "version": "0.337.0",
           "date": "2024-11-03T18:45:00-05:00",
